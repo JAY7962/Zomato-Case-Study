@@ -1,6 +1,6 @@
 # 🍽️ Zomato Case Study — Enhancing User Engagement & Loyalty
 
-![image alt](![image alt](https://github.com/JAY7962/Spotify-Data-Analysis/blob/76e80577c4b2b5fdf09d7a63fe667949b07d60b7/spotify_logo.jpg))
+![image alt](https://github.com/JAY7962/Zomato-Case-Study/blob/b79c77240ba78e025e1a8bb5c02e53b9327892fc/zomato.jpg)
 
 **Author:** N. Jay Roshan Devankar  
 **Institution:** IIT Bhubaneswar  
